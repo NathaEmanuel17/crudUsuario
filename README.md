@@ -98,3 +98,6 @@ clique no link e a aplicação irá abrir em seu navegador.
 - Update
 - Delete(Delete)
 - Validações de campos
+
+https://user-images.githubusercontent.com/92585791/175833348-0b3b83c0-aadb-41c6-909b-5291bef8903e.mp4
+
